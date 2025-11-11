@@ -1,3 +1,11 @@
+
+<p align="center">
+  <img src="docs/WAFFER App.png" alt="WAFFER APP Banner" width="100%">
+</p>
+
+<h1 align="center">WAFFER APP</h1>
+
+
 WAFEER is a financial management application designed to help users track their expenses, manage monthly budgets, and gain clear insights into their spending patterns.  
 The project focuses on simplifying financial decision-making through intuitive design, data-driven insights, and AI-powered recommendations.
 
