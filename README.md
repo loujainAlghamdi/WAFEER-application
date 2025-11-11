@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="docs/WAFFER App.png" alt="WAFFER APP Banner" width="100%">
+  <img src="ui/WAFFER App.png" alt="WAFFER APP Banner" width="100%">
 </p>
 
 <h1 align="center">WAFFER APP</h1>
