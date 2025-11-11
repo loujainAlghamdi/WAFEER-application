@@ -124,6 +124,36 @@ https://www.figma.com/design/vBACE9rvSVvl5njosVrHTP/Wafeer?node-id=0-1
 
 ---
 
+## 📱 User Interface (UI Screens)
+
+Below are the main interface screens of the **WAFEER Application**, designed as part of the system’s high-fidelity prototype.
+
+<p align="center">
+  <img src="ui/WAFEER-interfaces.png" width="80%" />
+</p>
+
+<p align="center">
+  <img src="ui/WAFEER-interfaces2.png" width="80%" />
+</p>
+
+<p align="center">
+  <img src="ui/WAFEER-interfaces3.png" width="80%" />
+</p>
+
+<p align="center">
+  <img src="ui/WAFEER-interfaces4.png" width="80%" />
+</p>
+
+<p align="center">
+  <img src="ui/WAFEER-interfaces5.png" width="80%" />
+</p>
+
+<p align="center">
+  <img src="ui/WAFEER-interfaces6.png" width="80%" />
+</p>
+
+---
+
 ## ✅ Future Work
 - Improve UI responsiveness and navigation  
 - Add community-driven features and savings challenges  
